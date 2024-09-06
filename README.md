@@ -1,2 +1,3 @@
 # Product-of-n-numbers
-it return The Product of given Numbers
+### The products of given numbers can be done using product function available in math library
+ 
